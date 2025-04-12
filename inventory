@@ -1,1 +1,1 @@
-192.168.0.100 ansible_user=ubuntu-vm
+192.168.1.184 ansible_user=ubuntu-vm
