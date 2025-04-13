@@ -6,6 +6,7 @@
 
 
   - name: install apache and php for Ubuntu servers
+    tags: ubuntu-apache
     apt:
       name:
         - apache2
